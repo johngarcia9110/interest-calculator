@@ -7,7 +7,7 @@ A basic React/Redux application that allows the user to calculate the total + in
 - run `yarn start` The application will automatically open in your browser.
 
 ## Running Tests
-Tests have been created using the prepacked jest library that comes along with Create-React-App. For now, there is only one item being tested, the "total" reducer. This reducer contains the business logic for calculating the total + interest rate.
+Tests have been created using the prepacked jest library that comes along with Create-React-App. For now, there is only one item being tested, the "totalCost" reducer. This reducer contains the business logic for calculating the total + interest rate.
 - run `yarn test` to start the tests.
 
 ## Considerations
